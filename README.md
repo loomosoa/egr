@@ -243,4 +243,4 @@ log n, допустим, по основанию 10, значит, что 10 б�
 
 Что позволило бы совершенно по-новому взглянуть на математический процесс в рамках того или иного научного процесса или R&D.
 
-[![Telegram Group](imgs/Telegram_logo.png =width=100)](https://t.me/elementary_geometric_reduction_g)
+[![Telegram Group](imgs/Telegram_logo.png)](https://t.me/elementary_geometric_reduction_g)
