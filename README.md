@@ -1,6 +1,6 @@
 # Elementary Geometric Reduction
 
-![Math](imgs/math.png)
+![Math](imgs/math_visual.png)
 
 ### Проблема
 
